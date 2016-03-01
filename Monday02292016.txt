@@ -1,0 +1,6 @@
+Hello World
+Today we went over some things I should have known better like HEX conversions. I will need to review octal conversions
+We started to learn github commands and I want to research if there are ant training videos on Lynda.com 
+tommorow we are going to cover CSS and html 5
+Battery on the laptop only lasts about an hour
+Power supply gets very hot and turns on and off, needs a heat sink and fan.
