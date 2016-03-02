@@ -1,0 +1,7 @@
+Tues 3-1-2016
+Captains log
+Reviewed networking and IP 
+began work with css and html, created my first website ever. very neanderthal but worked locally non the less. 
+Created a couple of batch files to show you the IP address and perform a shutdown.
+this is moving a bit fast for my zero coding experience. 
+Progress is inevitable.
