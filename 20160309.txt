@@ -1,0 +1,9 @@
+Today was a complete disaster.
+suposed to build a dice game as a team.
+issues came up right away with git.
+	we could not get a functional sync working amoung th 3 of us without merge conflicts.
+	I was suposed to make the round class but could not get out of the box
+	with about an hour left of class I do not have a starting point.
+Mike spent some time with me today going over the robot we were supposed to make
+ and I now have a little better understanding of the procss
+ I really need some one on one with someone who can take it slow with me.
